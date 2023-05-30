@@ -1,23 +1,23 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - Yanghai&#39;s Blog</title>
-        <link>/categories/</link>
+        <link>https://github.com/cuiccc2014/cuiccc2014.github.io.git/categories/</link>
         <description>Categories - Category - Yanghai&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>cuiccc2014@gmail.com (Yanghai)</managingEditor>
-            <webMaster>cuiccc2014@gmail.com (Yanghai)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="/categories/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>cuiccc2014@gmail.com (Yanghai)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://github.com/cuiccc2014/cuiccc2014.github.io.git/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Documentation</title>
-    <link>/categories/documentation/</link>
+    <link>https://github.com/cuiccc2014/cuiccc2014.github.io.git/categories/documentation/</link>
     <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
     <author>Yanghai</author>
-    <guid>/categories/documentation/</guid>
+    <guid>https://github.com/cuiccc2014/cuiccc2014.github.io.git/categories/documentation/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Markdown</title>
-    <link>/categories/markdown/</link>
+    <link>https://github.com/cuiccc2014/cuiccc2014.github.io.git/categories/markdown/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
     <author>Yanghai</author>
-    <guid>/categories/markdown/</guid>
+    <guid>https://github.com/cuiccc2014/cuiccc2014.github.io.git/categories/markdown/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
